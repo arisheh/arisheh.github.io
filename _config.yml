@@ -102,9 +102,9 @@ author:
     - label: "alexrisheh@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:alexrisheh@gmail.com
-    # - label: "LinkedIn"
-    #   icon: "fas fa-fw fa-link"
-    #   # url: "https://www.linkedin.com/in/alex-risheh-2672aa14b/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      # url: "https://www.linkedin.com/in/alex-risheh-2672aa14b/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
