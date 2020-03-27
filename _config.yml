@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Alex Risheh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio."
+  avatar           : "/images/bio-photo (3)"
+  bio              : "Data Science Portfolio"
   location         : "Los Angeles, California"
   email            :
   links:
